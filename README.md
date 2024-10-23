@@ -26,7 +26,7 @@ A tech enthusiast and creator of cool projects! Here's a glimpse into what I do:
 ## ⚙️ Tech Stack
 ```yaml
 - Backend: Java, Spring Boot
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, React, React Native
 - Tools: GitHub, Docker, Selenium
 ```
 
